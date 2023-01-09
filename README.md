@@ -1,1 +1,3 @@
-# password checker using python
+password checker using python
+
+to use: python password_checker.py password_you_want_to_check_as_parameter_1 password_you_want_to_check_as_parameter_2 so_on_and_so_forth
